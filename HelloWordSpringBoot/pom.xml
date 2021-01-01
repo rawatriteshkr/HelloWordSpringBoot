@@ -10,9 +10,9 @@
 	</parent>
 	
 	<groupId>com.nttdata.app</groupId>
-	<artifactId>HelloWordSpringBoot</artifactId>
+	<artifactId>HelloWorldSpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HelloWordSpringBoot</name>
+	<name>HelloWorldSpringBoot</name>
 
 	<properties>
 		<java.version>1.8</java.version>
